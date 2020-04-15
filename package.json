@@ -1,0 +1,19 @@
+{
+  "name": "movie-booking",
+  "version": "1.0.0",
+  "description": "simple movie booking form created with vanilla js and css",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeleinewoodbury/movie-booking-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeleinewoodbury/movie-booking-form/issues"
+  },
+  "homepage": "https://github.com/madeleinewoodbury/movie-booking-form#readme"
+}
